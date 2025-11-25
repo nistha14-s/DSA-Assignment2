@@ -1,2 +1,9 @@
-# DSA-Assignment2
-DSA Assignment submission: - Singly Linked List (insert &amp; delete) - Undo/Redo Text Editor using Stacks
+# DSA Assignment
+
+## 1. Singly Linked List
+- Insert + Delete Operations
+- Language: C++
+
+## 2. Undo-Redo Text Editor Simulation
+- Uses Stacks to implement undo() and redo()
+- Language: C++
